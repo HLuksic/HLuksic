@@ -1,5 +1,5 @@
-### Hello, I'm Hrvoje Lukšić 
-Software engineering @ [FOI](https://www.foi.unizg.hr/en).   
+### Hello
+Software engineering student @ [FOI](https://www.foi.unizg.hr/en).   
 
 <!---
 HLuksic/HLuksic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
