@@ -1,5 +1,5 @@
 ### Hello
-Software engineering student @ [FOI](https://www.foi.unizg.hr/en).   
+Software engineering master's @ [FOI](https://www.foi.unizg.hr/en).
 
 <!---
 HLuksic/HLuksic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
